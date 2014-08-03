@@ -1,0 +1,5 @@
+c:\users\eric\documents\visual studio 2012\Projects\Variables\Variables\bin\Debug\Variables.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\Variables\Variables\bin\Debug\Variables.exe
+c:\users\eric\documents\visual studio 2012\Projects\Variables\Variables\bin\Debug\Variables.pdb
+c:\users\eric\documents\visual studio 2012\Projects\Variables\Variables\obj\Debug\Variables.exe
+c:\users\eric\documents\visual studio 2012\Projects\Variables\Variables\obj\Debug\Variables.pdb
